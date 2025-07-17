@@ -1,5 +1,9 @@
 Image Text Analyzer
 
+For Reports:
+-------------
+Contact me : veereshhajanale09@gmail.com
+
 Description:
 -------------
 Image Text Analyzer is a Streamlit app that allows users to upload handwritten images

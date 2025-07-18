@@ -1,0 +1,7 @@
+streamlit
+pyttsx3
+SpeechRecognition
+wikipedia
+pywhatkit
+pyaudio
+pipwin
